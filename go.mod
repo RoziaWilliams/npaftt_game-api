@@ -1,4 +1,4 @@
-module npaftt_game-api
+module github.com/RoziaWilliams/npaftt_game-api
 
 go 1.23.1
 
